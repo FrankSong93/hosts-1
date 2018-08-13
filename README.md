@@ -12,7 +12,7 @@
 [mirror-badge]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
 [mirror-link]: https://coding.net/u/scaffrey/p/hosts/git
 
-我们立足于美利坚合众国，对全球华人服务，受北美法律保护。版权所有，未经授权禁止复制或建立镜像。
+
 
 ## 如何贡献
 
